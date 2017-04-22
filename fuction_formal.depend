@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492855214 source:e:\cyuyan\fuction_formal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
